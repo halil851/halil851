@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Halil
 - 👀 I’m interested in how iOS devices work and Swift.
 - 🌱 I’m currently learning Swift.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me halil851@gmail.com
 
 <!---
