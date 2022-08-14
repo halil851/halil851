@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Halil
-- 👀 I’m interested in how iOS devices work and Swift.
-- 🌱 I’m currently learning Swift.
-- 📫 How to reach me halil851@gmail.com
+- 👀 Interested in how iOS devices work and Swift.
+- 🌱 Currently learning Swift.
+- 📫 Reach me here halil851@gmail.com
 
 <!---
 halil851/halil851 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
